@@ -1,0 +1,19 @@
+agh/cs/project/Animal.java
+ agh.cs.project.Animal
+agh/cs/project/IPositionChangeObserver.java
+ agh.cs.project.IPositionChangeObserver
+agh/cs/project/MapDirection.java
+ agh.cs.project.MapDirection
+ agh.cs.project.MapDirection$1
+agh/cs/project/IPositionChangedPublisher.java
+ agh.cs.project.IPositionChangedPublisher
+agh/cs/project/WorldMap.java
+ agh.cs.project.WorldMap
+agh/cs/project/Field.java
+ agh.cs.project.Field
+agh/cs/project/Vector2d.java
+ agh.cs.project.Vector2d
+agh/cs/project/DNA.java
+ agh.cs.project.DNA
+agh/cs/project/Main.java
+ agh.cs.project.Main
