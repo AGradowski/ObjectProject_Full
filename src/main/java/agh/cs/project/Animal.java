@@ -25,7 +25,6 @@ public class Animal implements IPositionChangedPublisher
         this.dna = dna;
         addObserver(map);
         addedNewPosition(position);
-        System.out.println(dna.toString());
 
     }
 
